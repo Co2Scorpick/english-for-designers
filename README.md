@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,12 +11,12 @@
             padding: 0;
             display: flex;
             flex-direction: column;
-            align-items: flex-end;
+            align-items: flex-start;
             justify-content: center;
             height: 100vh;
             overflow: hidden;
             color: #fff;
-            padding-right: 50px;
+            padding-left: 50px;
         }
 
         h1 {
@@ -25,14 +25,14 @@
             margin-bottom: 20px;
             animation: fadeInDown 1.5s ease forwards;
             opacity: 0;
-            text-align: right;
+            text-align: left;
         }
 
         p {
             font-size: 1.25rem;
             margin: 20px 0;
             max-width: 700px;
-            text-align: right;
+            text-align: left;
             animation: fadeIn 2s ease forwards;
             opacity: 0;
         }
@@ -43,7 +43,7 @@
             margin-top: 30px;
             animation: fadeIn 2.5s ease forwards;
             opacity: 0;
-            justify-content: flex-end;
+            justify-content: flex-start;
         }
 
         .button {
