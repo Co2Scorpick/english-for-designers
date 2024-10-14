@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+WELCOME!
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -113,9 +113,9 @@
     <div class="circle circle2"></div>
     <div class="circle circle3"></div>
 
-    <h1>Hey there! I'm Ondřej Mišák</h1>
+    <h1>My name is Ondřej Mišák</h1>
     <p>As a designer, I’m passionate about crafting experiences that seamlessly blend beauty with function. Whether it's sleek interfaces or intuitive user flows, I thrive on turning ideas into designs that make an impact.</p>
-    <a href="mailto:your-email@domain.com" class="contact-btn">Get in touch</a>
+    <a href="mailto:misak.ondrej@email.cz" class="contact-btn">Get in touch</a>
 
 </body>
 </html>
