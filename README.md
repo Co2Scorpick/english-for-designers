@@ -1,4 +1,4 @@
-WELCOME!
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -33,7 +33,7 @@ WELCOME!
             opacity: 0;
         }
 
-        .contact-btn {
+        .contact-btn, .portfolio-btn {
             display: inline-block;
             margin-top: 30px;
             padding: 15px 30px;
@@ -45,12 +45,14 @@ WELCOME!
             transition: all 0.4s ease-in-out;
             animation: fadeInButton 3s ease-in-out forwards;
             opacity: 0;
+            cursor: pointer;
         }
 
-        .contact-btn:hover {
+        .contact-btn:hover, .portfolio-btn:hover {
             background-color: #333;
             color: #fff;
-            transform: translateY(-10px);
+            transform: translateY(-10px) rotate(5deg);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
         }
 
         @keyframes fadeIn {
@@ -105,6 +107,24 @@ WELCOME!
             50% { transform: translateY(-20px); }
             100% { transform: translateY(0); }
         }
+
+        /* Cool hover effect on header */
+        h1:hover {
+            color: #ffcc00;
+            text-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+            transform: scale(1.05);
+        }
+
+        /* Animations on page load for a cool effect */
+        body {
+            animation: bodyFadeIn 1s ease-in-out forwards;
+        }
+
+        @keyframes bodyFadeIn {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+
     </style>
 </head>
 <body>
@@ -113,9 +133,11 @@ WELCOME!
     <div class="circle circle2"></div>
     <div class="circle circle3"></div>
 
-    <h1>My name is Ondřej Mišák</h1>
+    <h1>Hey there! I'm Ondřej Mišák</h1>
     <p>As a designer, I’m passionate about crafting experiences that seamlessly blend beauty with function. Whether it's sleek interfaces or intuitive user flows, I thrive on turning ideas into designs that make an impact.</p>
+
     <a href="mailto:misak.ondrej@email.cz" class="contact-btn">Get in touch</a>
+    <a href="https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1" target="_blank" class="portfolio-btn">View My Portfolio</a>
 
 </body>
 </html>
