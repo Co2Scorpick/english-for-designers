@@ -1,4 +1,4 @@
-<WELCOME>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,11 +11,12 @@
             padding: 0;
             display: flex;
             flex-direction: column;
-            align-items: center;
+            align-items: flex-end;
             justify-content: center;
             height: 100vh;
             overflow: hidden;
             color: #fff;
+            padding-right: 50px;
         }
 
         h1 {
@@ -24,13 +25,14 @@
             margin-bottom: 20px;
             animation: fadeInDown 1.5s ease forwards;
             opacity: 0;
+            text-align: right;
         }
 
         p {
             font-size: 1.25rem;
             margin: 20px 0;
             max-width: 700px;
-            text-align: center;
+            text-align: right;
             animation: fadeIn 2s ease forwards;
             opacity: 0;
         }
@@ -41,6 +43,7 @@
             margin-top: 30px;
             animation: fadeIn 2.5s ease forwards;
             opacity: 0;
+            justify-content: flex-end;
         }
 
         .button {
@@ -63,17 +66,7 @@
             color: #fff;
         }
 
-        /* Keyframe animations */
-        @keyframes fadeInDown {
-            0% { opacity: 0; transform: translateY(-50px); }
-            100% { opacity: 1; transform: translateY(0); }
-        }
-
-        @keyframes fadeIn {
-            0% { opacity: 0; }
-            100% { opacity: 1; }
-        }
-
+        /* Floating circles */
         .background-bubble {
             position: absolute;
             border-radius: 50%;
@@ -95,16 +88,44 @@
             right: 10%;
         }
 
+        /* Additional bubbles */
+        .bubble3 {
+            width: 250px;
+            height: 250px;
+            bottom: 30%;
+            right: 5%;
+        }
+
+        .bubble4 {
+            width: 100px;
+            height: 100px;
+            top: 5%;
+            left: 20%;
+        }
+
+        @keyframes fadeInDown {
+            0% { opacity: 0; transform: translateY(-50px); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes fadeIn {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+
         @keyframes move {
             0%, 100% { transform: translateY(0); }
             50% { transform: translateY(-20px); }
         }
+
     </style>
 </head>
 <body>
 
     <div class="background-bubble bubble1"></div>
     <div class="background-bubble bubble2"></div>
+    <div class="background-bubble bubble3"></div>
+    <div class="background-bubble bubble4"></div>
 
     <h1>I'm Ondřej Mišák</h1>
     <p>As a designer, I’m passionate about creating beautiful, modern, and functional digital experiences. Let's connect and build something amazing together.</p>
