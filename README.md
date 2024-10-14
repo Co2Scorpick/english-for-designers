@@ -22,9 +22,14 @@
             font-size: 4rem;
             font-weight: 700;
             margin-bottom: 20px;
-            animation: fadeInDown 1.5s ease forwards, pulse 2s infinite alternate;
-            opacity: 0;
+            opacity: 0.9;
             text-align: left;
+            transition: color 0.3s ease, transform 0.3s ease;
+        }
+
+        h1:hover {
+            color: #f39c12; /* Change color on hover */
+            transform: scale(1.05); /* Slightly enlarge */
         }
 
         p {
@@ -32,17 +37,20 @@
             margin: 20px 0;
             max-width: 700px;
             text-align: left;
-            animation: fadeIn 2s ease forwards, slide 2s infinite alternate;
-            opacity: 0;
+            opacity: 0.9;
+            transition: color 0.3s ease, font-weight 0.3s ease;
+        }
+
+        p:hover {
+            color: #f39c12; /* Change color on hover */
+            font-weight: bold; /* Bold on hover */
         }
 
         .button-container {
             display: flex;
             gap: 20px;
             margin-top: 30px;
-            animation: fadeIn 2.5s ease forwards;
-            opacity: 0;
-            justify-content: flex-start;
+            opacity: 0.9;
         }
 
         .button {
@@ -102,31 +110,10 @@
             left: 20%;
         }
 
-        @keyframes fadeInDown {
-            0% { opacity: 0; transform: translateY(-50px); }
-            100% { opacity: 1; transform: translateY(0); }
-        }
-
-        @keyframes fadeIn {
-            0% { opacity: 0; }
-            100% { opacity: 1; }
-        }
-
-        @keyframes pulse {
-            0% { transform: scale(1); }
-            100% { transform: scale(1.05); }
-        }
-
-        @keyframes slide {
-            0% { transform: translateX(0); }
-            100% { transform: translateX(10px); }
-        }
-
         @keyframes move {
             0%, 100% { transform: translateY(0); }
             50% { transform: translateY(-20px); }
         }
-
     </style>
 </head>
 <body>
