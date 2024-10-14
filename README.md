@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,7 +22,7 @@
             font-size: 4rem;
             font-weight: 700;
             margin-bottom: 20px;
-            animation: fadeInDown 1.5s ease forwards;
+            animation: fadeInDown 1.5s ease forwards, pulse 2s infinite alternate;
             opacity: 0;
             text-align: left;
         }
@@ -33,7 +32,7 @@
             margin: 20px 0;
             max-width: 700px;
             text-align: left;
-            animation: fadeIn 2s ease forwards;
+            animation: fadeIn 2s ease forwards, slide 2s infinite alternate;
             opacity: 0;
         }
 
@@ -111,6 +110,16 @@
         @keyframes fadeIn {
             0% { opacity: 0; }
             100% { opacity: 1; }
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            100% { transform: scale(1.05); }
+        }
+
+        @keyframes slide {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(10px); }
         }
 
         @keyframes move {
