@@ -38,12 +38,6 @@
             max-width: 700px;
             text-align: left;
             opacity: 0.9;
-            transition: color 0.3s ease, font-weight 0.3s ease;
-        }
-
-        p:hover {
-            color: #f39c12; /* Change color on hover */
-            font-weight: bold; /* Bold on hover */
         }
 
         .button-container {
