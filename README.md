@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ondřej Mišák - Designer</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif;
-            background: linear-gradient(135deg, #f06, #ffcc00);
+            font-family: 'Helvetica Neue', sans-serif;
+            background: radial-gradient(circle at top left, #ff6f61, #ffcc00);
             color: #fff;
             text-align: center;
-            padding: 50px;
+            padding: 0;
             margin: 0;
             height: 100vh;
             display: flex;
@@ -22,84 +21,74 @@
 
         h1 {
             font-size: 4rem;
-            animation: fadeIn 2s ease-in-out forwards;
-            margin-bottom: 20px;
+            margin: 0;
+            animation: popIn 1.5s ease-in-out forwards;
+            background: linear-gradient(45deg, #fff, #ffcc00);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
         }
 
         p {
-            font-size: 1.5rem;
+            font-size: 1.2rem;
             max-width: 600px;
-            animation: slideUp 2s ease-in-out forwards;
+            animation: fadeUp 2s ease-in-out forwards;
             opacity: 0;
+            color: #f0f0f0;
+            margin: 20px 0;
         }
 
-        .contact-btn, .portfolio-btn {
+        .button {
             display: inline-block;
-            margin-top: 30px;
-            padding: 15px 30px;
+            margin: 20px;
+            padding: 15px 40px;
+            font-size: 1.2rem;
+            border-radius: 30px;
             background-color: #fff;
             color: #333;
-            font-size: 1rem;
-            border-radius: 50px;
             text-decoration: none;
             transition: all 0.4s ease-in-out;
-            animation: fadeInButton 3s ease-in-out forwards;
-            opacity: 0;
             cursor: pointer;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
         }
 
-        .contact-btn:hover, .portfolio-btn:hover {
+        .button:hover {
             background-color: #333;
             color: #fff;
-            transform: translateY(-10px) rotate(5deg);
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+            transform: scale(1.1);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
         }
 
-        @keyframes fadeIn {
-            0% { opacity: 0; transform: translateY(-50px); }
-            100% { opacity: 1; transform: translateY(0); }
-        }
-
-        @keyframes slideUp {
-            0% { opacity: 0; transform: translateY(50px); }
-            100% { opacity: 1; transform: translateY(0); }
-        }
-
-        @keyframes fadeInButton {
-            0% { opacity: 0; transform: scale(0.8); }
-            100% { opacity: 1; transform: scale(1); }
-        }
-
-        /* Floating animation for background circles */
+        /* Floating circles */
         .circle {
             position: absolute;
             border-radius: 50%;
-            background: rgba(255, 255, 255, 0.2);
+            background: rgba(255, 255, 255, 0.1);
             animation: float 10s infinite ease-in-out;
         }
 
         .circle1 {
-            width: 200px;
-            height: 200px;
-            bottom: 10%;
-            left: 20%;
-            animation-duration: 12s;
+            width: 300px;
+            height: 300px;
+            top: 10%;
+            left: 15%;
         }
 
         .circle2 {
-            width: 300px;
-            height: 300px;
-            top: 20%;
-            right: 15%;
-            animation-duration: 8s;
+            width: 200px;
+            height: 200px;
+            bottom: 15%;
+            right: 20%;
         }
 
-        .circle3 {
-            width: 150px;
-            height: 150px;
-            bottom: 30%;
-            right: 35%;
-            animation-duration: 10s;
+        @keyframes popIn {
+            0% { transform: scale(0.5); opacity: 0; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
+        @keyframes fadeUp {
+            0% { opacity: 0; transform: translateY(50px); }
+            100% { opacity: 1; transform: translateY(0); }
         }
 
         @keyframes float {
@@ -108,36 +97,18 @@
             100% { transform: translateY(0); }
         }
 
-        /* Cool hover effect on header */
-        h1:hover {
-            color: #ffcc00;
-            text-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-            transform: scale(1.05);
-        }
-
-        /* Animations on page load for a cool effect */
-        body {
-            animation: bodyFadeIn 1s ease-in-out forwards;
-        }
-
-        @keyframes bodyFadeIn {
-            0% { opacity: 0; }
-            100% { opacity: 1; }
-        }
-
     </style>
 </head>
 <body>
 
     <div class="circle circle1"></div>
     <div class="circle circle2"></div>
-    <div class="circle circle3"></div>
 
     <h1>Hey there! I'm Ondřej Mišák</h1>
-    <p>As a designer, I’m passionate about crafting experiences that seamlessly blend beauty with function. Whether it's sleek interfaces or intuitive user flows, I thrive on turning ideas into designs that make an impact.</p>
+    <p>I create sleek, functional designs that turn ideas into impactful digital experiences. Let’s collaborate to craft something bold and beautiful.</p>
 
-    <a href="mailto:misak.ondrej@email.cz" class="contact-btn">Get in touch</a>
-    <a href="https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1" target="_blank" class="portfolio-btn">View My Portfolio</a>
+    <a href="mailto:misak.ondrej@email.cz" class="button">Contact Me</a>
+    <a href="https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1" class="button" target="_blank">View Portfolio</a>
 
 </body>
 </html>
