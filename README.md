@@ -1,8 +1,10 @@
-# Ahoj! Jmenuji se Ondřej Mišák
+# Hey there! I'm Ondřej Mišák
 
-Jsem designer se zaměřením na vytváření poutavých a funkčních uživatelských zážitků. Rád pracuji na projektech, které kombinují estetiku s praktickým využitím a přinášejí uživatelům přidanou hodnotu.
+As a designer, I’m passionate about crafting experiences that seamlessly blend beauty with function. Whether it's sleek interfaces or intuitive user flows, I thrive on turning ideas into designs that make an impact.
 
-Mám vášeň pro design, který nejen vypadá dobře, ale také plně slouží svému účelu.
+I believe great design isn’t just about looks – it’s about solving problems and enhancing the way people interact with the world.
 
-## Kontakt
+If you’re into creating something bold and meaningful, let’s connect!
+
+## Get in touch
 - Email: [misak.ondrej@email.cz](mailto:misak.ondrej@email.cz)
