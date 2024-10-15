@@ -11,11 +11,12 @@
             display: flex;
             flex-direction: column;
             align-items: flex-start;
-            justify-content: center;
-            height: 100vh;
-            overflow: hidden;
+            justify-content: flex-start; /* Změněno na flex-start */
+            min-height: 100vh; /* Změněno z height na min-height */
+            overflow: auto; /* Umožňuje scrollování */
             color: #fff;
             padding-left: 50px;
+            padding-top: 20px; /* Přidáno pro lepší vzhled */
         }
 
         h1 {
@@ -28,8 +29,8 @@
         }
 
         h1:hover {
-            color: #f39c12; /* Change color on hover */
-            transform: scale(1.05); /* Slightly enlarge */
+            color: #f39c12;
+            transform: scale(1.05);
         }
 
         p {
