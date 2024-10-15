@@ -147,7 +147,8 @@
         <a href="mailto:misak.ondrej@email.cz" class="button">Contact Me</a>
         <a href="https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1" class="button" target="_blank">View Portfolio</a>
     </div>
-
+    </div>
+    </div>
     <p>Here’s some additional information about my interests:</p>
     <ul>
         <li>Web Design</li>
