@@ -40,6 +40,28 @@
             opacity: 0.9;
         }
 
+        ul {
+            margin: 20px 0;
+            padding-left: 20px;
+        }
+
+        table {
+            margin: 20px 0;
+            border-collapse: collapse;
+            width: 100%;
+            max-width: 700px;
+        }
+
+        th, td {
+            border: 1px solid #fff;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+
         .button-container {
             display: flex;
             gap: 20px;
@@ -119,6 +141,45 @@
 
     <h1>I'm Ondřej Mišák</h1>
     <p>As a designer, I’m passionate about creating beautiful, modern, and functional digital experiences. Let's connect and build something amazing together.</p>
+
+    <p>Here’s some additional information about my interests:</p>
+    <ul>
+        <li>Web Design</li>
+        <li>User Experience</li>
+        <li>Graphic Design</li>
+        <li>Photography</li>
+    </ul>
+
+    <p>Check out the following table for my skills:</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Skill</th>
+                <th>Level</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>HTML/CSS</td>
+                <td>Advanced</td>
+            </tr>
+            <tr>
+                <td>JavaScript</td>
+                <td>Intermediate</td>
+            </tr>
+            <tr>
+                <td>React</td>
+                <td>Intermediate</td>
+            </tr>
+            <tr>
+                <td>Photoshop</td>
+                <td>Advanced</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>Enjoy this fun GIF!</p>
+    <img src="frogwalk.gif" alt="Frog Walking" style="max-width: 100%; height: auto;">
 
     <div class="button-container">
         <a href="mailto:misak.ondrej@email.cz" class="button">Contact Me</a>
