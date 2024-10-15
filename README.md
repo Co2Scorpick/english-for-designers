@@ -11,12 +11,12 @@
             display: flex;
             flex-direction: column;
             align-items: flex-start;
-            justify-content: flex-start; /* Změněno na flex-start */
-            min-height: 100vh; /* Změněno z height na min-height */
-            overflow: auto; /* Umožňuje scrollování */
+            justify-content: flex-start;
+            min-height: 100vh;
+            overflow: auto;
             color: #fff;
             padding-left: 50px;
-            padding-top: 20px; /* Přidáno pro lepší vzhled */
+            padding-top: 20px;
         }
 
         h1 {
@@ -143,6 +143,11 @@
     <h1>I'm Ondřej Mišák</h1>
     <p>As a designer, I’m passionate about creating beautiful, modern, and functional digital experiences. Let's connect and build something amazing together.</p>
 
+    <div class="button-container">
+        <a href="mailto:misak.ondrej@email.cz" class="button">Contact Me</a>
+        <a href="https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1" class="button" target="_blank">View Portfolio</a>
+    </div>
+
     <p>Here’s some additional information about my interests:</p>
     <ul>
         <li>Web Design</li>
@@ -181,11 +186,6 @@
 
     <p>Enjoy this fun GIF!</p>
     <img src="frogwalk.gif" alt="Frog Walking" style="max-width: 100%; height: auto;">
-
-    <div class="button-container">
-        <a href="mailto:misak.ondrej@email.cz" class="button">Contact Me</a>
-        <a href="https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1" class="button" target="_blank">View Portfolio</a>
-    </div>
 
 </body>
 </html>
