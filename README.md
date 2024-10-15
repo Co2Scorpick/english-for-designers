@@ -60,6 +60,7 @@
             padding: 15px;
             text-align: left;
             border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+            color: #333; /* Černý text */
         }
 
         th {
@@ -197,26 +198,4 @@
                 <td>Microsoft 365</td>
             </tr>
             <tr>
-                <td>Creative Skills</td>
-                <td>Figma</td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>Clip Studio</td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>Blender</td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>Sketch</td>
-            </tr>
-        </tbody>
-    </table>
-
-    <p>Enjoy this fun GIF!</p>
-    <img src="frogwalk.gif" alt="Frog Walking" style="max-width: 100%; height: auto;">
-
-</body>
-</html>
+                <td>Creative Ski
