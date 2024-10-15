@@ -160,7 +160,7 @@
         <li>Web Design</li>
         <li>User Experience</li>
         <li>Graphic Design</li>
-        <li>Photography</li>
+        <li>Video Games</li>
     </ul>
 
     <p>Check out the following table for my skills:</p>
@@ -197,7 +197,6 @@
                 <td>Microsoft 365</td>
             </tr>
             <tr>
-                <td>Creativity</td>
                 <td>Figma</td>
             </tr>
             <tr>
