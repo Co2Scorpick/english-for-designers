@@ -51,22 +51,29 @@
             border-collapse: collapse;
             width: 100%;
             max-width: 700px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            overflow: hidden;
         }
 
         th, td {
-            border: 1px solid #fff;
-            padding: 10px;
+            padding: 15px;
             text-align: left;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
         }
 
         th {
             background-color: rgba(255, 255, 255, 0.2);
         }
 
+        tr:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
         .button-container {
             display: flex;
             gap: 20px;
-            margin: 40px 0; /* Zvýšení margin pro více prostoru kolem tlačítek */
+            margin: 40px 0;
             opacity: 0.9;
         }
 
@@ -160,26 +167,50 @@
     <table>
         <thead>
             <tr>
-                <th>Skill</th>
-                <th>Level</th>
+                <th>Skills</th>
+                <th>Tools</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>HTML/CSS</td>
-                <td>Advanced</td>
+                <td>Branding + Product Design</td>
+                <td>Adobe Photoshop</td>
             </tr>
             <tr>
-                <td>JavaScript</td>
-                <td>Intermediate</td>
+                <td>Digital Media Design</td>
+                <td>Adobe Illustrator</td>
             </tr>
             <tr>
-                <td>React</td>
-                <td>Intermediate</td>
+                <td>Wireframing</td>
+                <td>Adobe Premiere Pro</td>
             </tr>
             <tr>
-                <td>Photoshop</td>
-                <td>Advanced</td>
+                <td>Graphic Design</td>
+                <td>Adobe InDesign</td>
+            </tr>
+            <tr>
+                <td>Digital Art and Illustration</td>
+                <td>Adobe After Effects</td>
+            </tr>
+            <tr>
+                <td>Social Media Management</td>
+                <td>Microsoft 365</td>
+            </tr>
+            <tr>
+                <td>Creative Skills</td>
+                <td>Figma</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Clip Studio</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Blender</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Sketch</td>
             </tr>
         </tbody>
     </table>
