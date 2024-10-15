@@ -25,12 +25,7 @@
             margin-bottom: 20px;
             opacity: 0.9;
             text-align: left;
-            transition: color 0.3s ease, transform 0.3s ease;
-        }
-
-        h1:hover {
-            color: #f39c12;
-            transform: scale(1.05);
+            /* Removed hover effect */
         }
 
         p {
@@ -59,7 +54,7 @@
             padding: 15px;
             text-align: left;
             border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-            color: #333; /* Černý text */
+            color: #333;
         }
 
         th {
@@ -86,18 +81,10 @@
             text-decoration: none;
             font-weight: bold;
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-            transition: all 0.3s ease;
             cursor: pointer;
         }
 
-        .button:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
-            background-color: #333;
-            color: #fff;
-        }
-
-        /* Floating circles */
+        /* Removed hover effect on button */
         .background-bubble {
             position: absolute;
             border-radius: 50%;
@@ -119,7 +106,6 @@
             right: 10%;
         }
 
-        /* Additional bubbles */
         .bubble3 {
             width: 250px;
             height: 250px;
@@ -182,7 +168,7 @@
             </tr>
             <tr>
                 <td>Wireframing</td>
-                <td>Adobe Premiere Pro</td>
+                <td>Figma</td>
             </tr>
             <tr>
                 <td>Graphic Design</td>
@@ -195,9 +181,6 @@
             <tr>
                 <td>Social Media Management</td>
                 <td>Microsoft 365</td>
-            </tr>
-            <tr>
-                <td>Figma</td>
             </tr>
             <tr>
                 <td></td>
