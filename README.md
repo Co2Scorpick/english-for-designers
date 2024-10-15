@@ -215,7 +215,7 @@
         </tbody>
     </table>
 
-    <p>Enjoy this fun GIF!</p>
+    <p>Enjoy this funny GIF!</p>
     <img src="frogwalk.gif" alt="Frog Walking" style="max-width: 100%; height: auto;">
 
 </body>
