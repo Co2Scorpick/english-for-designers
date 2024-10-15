@@ -51,9 +51,8 @@
             border-collapse: collapse;
             width: 100%;
             max-width: 700px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            background-color: rgba(255, 255, 255, 0.1);
             border-radius: 8px;
-            overflow: hidden;
         }
 
         th, td {
@@ -64,7 +63,7 @@
         }
 
         th {
-            background-color: rgba(255, 255, 255, 0.2);
+            background-color: rgba(255, 255, 255, 0.3);
         }
 
         tr:hover {
@@ -198,4 +197,26 @@
                 <td>Microsoft 365</td>
             </tr>
             <tr>
-                <td>Creative Ski
+                <td>Creativity</td>
+                <td>Figma</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Clip Studio</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Blender</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Sketch</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>Enjoy this fun GIF!</p>
+    <img src="frogwalk.gif" alt="Frog Walking" style="max-width: 100%; height: auto;">
+
+</body>
+</html>
