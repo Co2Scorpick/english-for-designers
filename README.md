@@ -14,8 +14,8 @@ I want to create something that is entertaining. Making people engaged in the de
 If you wanna look at full portfolio you can find it here: [LINK]([https://adresaodkazu.com](https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1))
 
 
-## Café & Klub Letka - Redesign
-**2024 // VISUAL IDENTITY**
+## Streaming platform Ketu
+**2023 / Web design UX/UI
 
 ![Ketu](Pic/S-01.png)
 ![Ketu](Pic/S-02.png)
