@@ -1,6 +1,6 @@
 # Welcome
 
-My name is Ondřej Mišák, 
+My name is Ondřej Mišák. A UX/UI designer creating intuitive and visually engaging digital experiences.
 
 ## About me
 
