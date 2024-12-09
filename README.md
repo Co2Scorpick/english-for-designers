@@ -19,7 +19,6 @@ If you wanna look at full portfolio you can find it here: [LINK](https://www.fig
 ![Ketu](Pic/S-01.png)
 ![Ketu](Pic/S-02.png)
 ![Ketu](Pic/S-03.png)
-
 Streaming platform page design focused on an intuitive, visually engaging experience. The layout emphasizes seamless navigation and vibrant visuals that reflect the variety of content available.
 
 The design combines cinematic imagery with smooth interactions, making it easy and enjoyable for users to discover new stories.
@@ -27,11 +26,9 @@ The design combines cinematic imagery with smooth interactions, making it easy a
 ## Getfix landing page
 
 ![gf](Pic/S-04.png)
-
 Landing page design crafted to captivate and guide users effortlessly. The layout is clean and engaging, with bold visuals and clear calls to action that highlight key features.
 
 ## Logo design
 
 ![logo](Pic/S-05.png)
-
 Logo design focused on simplicity and memorability, capturing the essence of the brand with clean lines and bold shapes.
