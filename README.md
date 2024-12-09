@@ -15,10 +15,21 @@ If you wanna look at full portfolio you can find it here: [LINK](https://www.fig
 
 
 ## Streaming platform Ketu
-**2023 / Web design UX/UI**
 
 ![Ketu](Pic/S-01.png)
 ![Ketu](Pic/S-02.png)
 ![Ketu](Pic/S-03.png)
+
+*popisek*
+
+## Getfix landing page
+
+![gf](Pic/S-04.png)
+
+*popisek*
+
+## Logo design
+
+![logo](Pic/S-05.png)
 
 *popisek*
