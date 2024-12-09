@@ -11,11 +11,11 @@ I want to create something that is entertaining. Making people engaged in the de
 > “Design is a process that focuses on creating enjoyable experiences by understanding what users want and needs.”” — *Jesse Schell*
 
 #Some stuff I worked on:
-If you wanna look at full portfolio you can find it here: [LINK]([https://adresaodkazu.com](https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1))
+If you wanna look at full portfolio you can find it here: ![LINK]([https://adresaodkazu.com](https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1))
 
 
 ## Streaming platform Ketu
-**2023 / Web design UX/UI
+**2023 / Web design UX/UI**
 
 ![Ketu](Pic/S-01.png)
 ![Ketu](Pic/S-02.png)
