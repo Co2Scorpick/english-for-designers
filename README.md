@@ -10,7 +10,7 @@ I want to create something that is entertaining. Making people engaged in the de
 
 > “Design is a process that focuses on creating enjoyable experiences by understanding what users want and needs.”” — *Jesse Schell*
 
-#Some stuff I worked on:
+# Some stuff I worked on:
 If you wanna look at full portfolio you can find it here: [LINK](https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1)
 
 
