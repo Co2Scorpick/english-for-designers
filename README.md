@@ -1,4 +1,4 @@
-# Welcome
+# Hi, Hello and Welcome
 
 My name is Ondřej Mišák. A UX/UI designer creating intuitive and visually engaging digital experiences.
 
@@ -13,6 +13,10 @@ I want to create something that is entertaining. Making people engaged in the de
 # Some stuff I worked on:
 If you wanna look at full portfolio you can find it here: [LINK](https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1)
 
+## Getfix landing page
+
+![gf](Pic/S-04.png)
+Landing page design crafted to captivate and guide users effortlessly. The layout is clean and engaging, with bold visuals and clear calls to action that highlight key features.
 
 ## Streaming platform Ketu
 
@@ -20,13 +24,7 @@ If you wanna look at full portfolio you can find it here: [LINK](https://www.fig
 ![Ketu](Pic/S-02.png)
 ![Ketu](Pic/S-03.png)
 Streaming platform page design focused on an intuitive, visually engaging experience. The layout emphasizes seamless navigation and vibrant visuals that reflect the variety of content available.
-
 The design combines cinematic imagery with smooth interactions, making it easy and enjoyable for users to discover new stories.
-
-## Getfix landing page
-
-![gf](Pic/S-04.png)
-Landing page design crafted to captivate and guide users effortlessly. The layout is clean and engaging, with bold visuals and clear calls to action that highlight key features.
 
 ## Logo design
 
