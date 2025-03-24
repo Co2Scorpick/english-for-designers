@@ -1,32 +1,52 @@
-# Hi, Hello and Welcome
+# Birth of an Icon: The Journey to a Memorable Logo
 
-My name is Ondřej Mišák. A UX/UI designer creating intuitive and visually engaging digital experiences.
+![Birth of an Icon](Pic/C2.png)
 
-## About me
+## The Spark: Finding Inspiration in the Brief  
+Activision Blizzard, a global gaming giant formed in 2008 from the merger of Activision and Blizzard Entertainment, needed a logo refresh to reflect its evolving identity.  
 
-Curretly writing my bachelor's at School of Creative Communication. I decided to pursue Design, because I love creating meaningful stuff. To me, design needs to give people an experience that also solves a problem.
+With Microsoft’s 2023 acquisition and a $73 billion valuation, the brief was clear:  
+**Create a design that honors its legacy while appealing to a diverse audience.**  
 
-I want to create something that is entertaining. Making people engaged in the design. Wanting them to explore it, but also being easy to understand, and user-friendly. I mainly focus on UX/UI Design, but I don't mind doing other designer work as well.
+---
 
-> “Design is a process that focuses on creating enjoyable experiences by understanding what users want and needs.”” — *Jesse Schell*
+# Drawing Identity: How a Logo Tells a Story
 
-# Some stuff I worked on:
-If you wanna look at full portfolio you can find it here: [LINK](https://www.figma.com/design/0YlSm7hb7xT16KIkEb62Of/Portfolio?node-id=0-1)
+![Drawing Identity](Pic/C4.png)
 
-## Getfix landing page
+## Lines and Curves: Sketching the First Impressions  
+The old logo felt dated for a company at the forefront of the gaming industry.  
+Initial sketches focused on shedding the frosty vibe, introducing dynamic shapes to capture the energy of a competitive market.  
 
-![gf](Pic/S-04.png)
-Landing page design crafted to captivate and guide users effortlessly. The layout is clean and engaging, with bold visuals and clear calls to action that highlight key features.
+## Beyond the Line: Crafting a Visual Fingerprint  
 
-## Streaming platform Ketu
+### Color & Soul: Infusing Personality into Design  
+The new logo embraced **bold, modern hues** and **fluid forms** to reflect innovation and accessibility.  
+The design spoke to a broader audience while retaining a nod to Blizzard’s heritage.  
+It became a **visual signature**, standing out in a sea of competitors.  
 
-![Ketu](Pic/S-01.png)
-![Ketu](Pic/S-02.png)
-![Ketu](Pic/S-03.png)
-Streaming platform page design focused on an intuitive, visually engaging experience. The layout emphasizes seamless navigation and vibrant visuals that reflect the variety of content available.
-The design combines cinematic imagery with smooth interactions, making it easy and enjoyable for users to discover new stories.
+---
 
-## Logo design
+# The Power of Simplicity: The Art of Logo Design
 
-![logo](Pic/S-05.png)
-Logo design focused on simplicity and memorability, capturing the essence of the brand with clean lines and bold shapes.
+![The Power of Simplicity](Pic/C3.png)
+
+## Refining the Edge: Iterations That Define Success  
+Through multiple iterations, the design stripped away complexity to achieve clarity and impact.  
+The goal was to **boost brand awareness and sales.**  
+The final logo modernized Activision Blizzard’s image, fostering trust and appealing to players across all age groups in a fiercely competitive industry.  
+
+---
+
+# From Vision to Victory: Building a Brand’s Face
+
+![From Vision to Victory](Pic/C1.png)
+
+## The Final Reveal: A Logo That Speaks Volumes  
+The rebrand delivered:  
+- **Heightened brand recognition**  
+- **Increased sales**  
+- **A stronger market position against gaming giants**  
+
+It opened doors to new markets, improved investor confidence, and sparked media buzz.  
+Internally, it revitalized company culture, aligning with Activision Blizzard’s push for innovation and cementing its edge in the ever-evolving gaming world.  
