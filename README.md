@@ -11,7 +11,7 @@ Welcome to my web projects repository! Below is a categorized list of my project
 
 ### 01 - Manifesto
 - **Description**: My personal manifesto for web development.
-- **Link**: [01-manifesto/index.md](https://github.com/Co2Scorpick/web/01-manifesto/blob/main/index.md)
+- **Link**: [01-manifesto/index.md](manifesto)
 
 ### 02 - First Impressions
 - **Description**: Exploring the importance of first impressions in web design.
@@ -19,7 +19,7 @@ Welcome to my web projects repository! Below is a categorized list of my project
 
 ### 03 - Case Studies
 - **Description**: A collection of case studies showcasing web projects.
-- **Link**: [03-case-studies/index.md](https://github.com/Co2Scorpick/web/03-case-studies/blob/main/index.md)
+- **Link**: [03-case-studies/index.md](case-studies)
 
 ### 04 - Storytelling
 - **Description**: How storytelling enhances user experience in web design.
