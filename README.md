@@ -15,7 +15,7 @@ Welcome to my web projects repository! Below is a categorized list of my project
 
 ### 02 - First Impressions
 - **Description**: Exploring the importance of first impressions in web design.
-- **Link**: [02-first-impressions/index.md](https://github.com/Co2Scorpick/web/02-first-impressions/blob/main/index.md)
+- **Link**: [02-first-impressions/index.md](first-impressions)
 
 ### 03 - Case Studies
 - **Description**: A collection of case studies showcasing web projects.
