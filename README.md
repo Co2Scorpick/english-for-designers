@@ -11,15 +11,15 @@ Welcome to my web projects repository! Below is a categorized list of my project
 
 ### 01 - Manifesto
 - **Description**: My personal manifesto for web development.
-- **Link**: [01-manifesto/index.md](manifesto)
+- **Link**: [01-manifesto/index.md](manifesto.md)
 
 ### 02 - First Impressions
 - **Description**: Exploring the importance of first impressions in web design.
-- **Link**: [02-first-impressions/index.md](first-impressions)
+- **Link**: [02-first-impressions/index.md](first-impressions.md)
 
 ### 03 - Case Studies
 - **Description**: A collection of case studies showcasing web projects.
-- **Link**: [03-case-studies/index.md](case-studies)
+- **Link**: [03-case-studies/index.md](case-studies.md)
 
 ### 04 - Storytelling
 - **Description**: How storytelling enhances user experience in web design.
