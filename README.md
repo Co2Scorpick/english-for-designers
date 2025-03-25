@@ -23,7 +23,7 @@ Welcome to my web projects repository! Below is a categorized list of my project
 
 ### 04 - Storytelling
 - **Description**: How storytelling enhances user experience in web design.
-- **Link**: [04-storytelling/index.md](https://github.com/Co2Scorpick/web/04-storytelling/blob/main/index.md)
+- **Link**: [04-storytelling/index.md](storytelling.md)
 
 ---
 
