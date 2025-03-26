@@ -1,4 +1,4 @@
-Welcome to my web projects repository! Below is a categorized list of my projects with links to their respective `index.md` files.
+Welcome to my school project English for Designers! I'm glad to have you here.
 
 ## Menu
 
