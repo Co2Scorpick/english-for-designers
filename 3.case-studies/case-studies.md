@@ -13,6 +13,7 @@ With Microsoft’s 2023 acquisition and a $73 billion valuation, the brief was c
 # Drawing Identity: How a Logo Tells a Story
 
 ![Drawing Identity](images/C4.png)
+![From Vision to Victory](images/C12.PNG)
 
 ## Lines and Curves: Sketching the First Impressions  
 The old logo felt dated for a company at the forefront of the gaming industry.  
