@@ -28,12 +28,12 @@ It became a **visual signature**, standing out in a sea of competitors.
 ---
 
 # The Power of Simplicity: The Art of Logo Design
-![From Vision to Victory](images/C9.png)
-![From Vision to Victory](images/C8.png)
-![From Vision to Victory](images/C6.png)
-![From Vision to Victory](images/C10.png)
+![From Vision to Victory](images/C9.PNG)
+![From Vision to Victory](images/C8.PNG)
+![From Vision to Victory](images/C6.PNG)
+![From Vision to Victory](images/C10.PNG)
 ![The Power of Simplicity](images/C3.png)
-![From Vision to Victory](images/C11.png)
+![From Vision to Victory](images/C11.PNG)
 
 ## Refining the Edge: Iterations That Define Success  
 Through multiple iterations, the design stripped away complexity to achieve clarity and impact.  
@@ -45,8 +45,8 @@ The final logo modernized Activision Blizzard’s image, fostering trust and app
 # From Vision to Victory: Building a Brand’s Face
 
 ![From Vision to Victory](images/C1.png)
-![From Vision to Victory](images/C5.png)
-![From Vision to Victory](images/C7.png)
+![From Vision to Victory](images/C5.PNG)
+![From Vision to Victory](images/C7.PNG)
 ## The Final Reveal: A Logo That Speaks Volumes  
 The rebrand delivered:  
 - **Heightened brand recognition**  
