@@ -11,11 +11,11 @@ Welcome to my school project English for Designers! I'm glad to have you here.
 
 ### 01 - Manifesto
 - **Description**: My personal manifesto
-- **Link**: [01-manifesto](1. manifesto/manifesto.md)
+- **Link**: [01-manifesto](1.manifesto/manifesto.md)
 
 ### 02 - First Impressions
 - **Description**: First impressions in web design.
-- **Link**: [02-first-impressions](2. impressions/first-impressions.md)
+- **Link**: [02-first-impressions](2.impressions/first-impressions.md)
 
 ### 03 - Case Studies
 - **Description**: A case study showcasing web project.
@@ -23,7 +23,7 @@ Welcome to my school project English for Designers! I'm glad to have you here.
 
 ### 04 - Storytelling
 - **Description**: How storytelling enhances user experience.
-- **Link**: [04-storytelling](4. storytelling/storytelling.md)
+- **Link**: [04-storytelling](4.storytelling/storytelling.md)
 
 ---
 
