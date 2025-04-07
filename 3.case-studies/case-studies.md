@@ -1,6 +1,6 @@
 # Birth of an Icon: The Journey to a Memorable Logo
 
-![Birth of an Icon](3.case-studies/images/C2.png)
+![Birth of an Icon](Pic/C2.png)
 
 ## The Spark: Finding Inspiration in the Brief  
 Activision Blizzard, a global gaming giant formed in 2008 from the merger of Activision and Blizzard Entertainment, needed a logo refresh to reflect its evolving identity.  
