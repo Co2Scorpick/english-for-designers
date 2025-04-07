@@ -13,7 +13,7 @@ With Microsoft’s 2023 acquisition and a $73 billion valuation, the brief was c
 # Drawing Identity: How a Logo Tells a Story
 
 ![Drawing Identity](images/C4.png)
-![From Vision to Victory](images/C12.PNG)
+![Activision_logo](images/C12.png)
 
 ## Lines and Curves: Sketching the First Impressions  
 The old logo felt dated for a company at the forefront of the gaming industry.  
@@ -29,11 +29,11 @@ It became a **visual signature**, standing out in a sea of competitors.
 ---
 
 # The Power of Simplicity: The Art of Logo Design
-![From Vision to Victory](images/C8.PNG)
-![From Vision to Victory](images/C9.PNG)
-![From Vision to Victory](images/C10.PNG)
-![From Vision to Victory](images/C6.PNG)
-![From Vision to Victory](images/C11.PNG)
+![Creation1](images/C8.PNG)
+![Creation2](images/C9.PNG)
+![Creation3](images/C10.PNG)
+![Creation4](images/C6.PNG)
+![Creation5](images/C11.PNG)
 
 ![The Power of Simplicity](images/C3.png)
 
@@ -47,8 +47,8 @@ The final logo modernized Activision Blizzard’s image, fostering trust and app
 # From Vision to Victory: Building a Brand’s Face
 
 ![From Vision to Victory](images/C1.png)
-![From Vision to Victory](images/C5.png)
-![From Vision to Victory](images/C7.PNG)
+![Mockup1](images/C5.png)
+![Mockup2](images/C7.PNG)
 ## The Final Reveal: A Logo That Speaks Volumes  
 The rebrand delivered:  
 - **Heightened brand recognition**  
